@@ -1,1 +1,1 @@
-# Sales-Analytics---An-Apache-Spark-project
+# Sales-Analytics-An-Apache-Spark-project
